@@ -1,2 +1,3 @@
 # This repo does not define custom Zephyr boards or shields.
 # Leave the module config empty so upstream ZMK board definitions remain discoverable.
+build: {}
